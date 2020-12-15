@@ -15,11 +15,11 @@ echo "Grade F";
 }
 
 elseif ($x < 20 && $y > 50) {
-	 echo "Grade S";
+	 echo "Grade D";
 }
 
 elseif ($y > 55 || $z < 75) {
-	 echo "Grade B";
+	 echo "Grade c";
 }
 
 else{
